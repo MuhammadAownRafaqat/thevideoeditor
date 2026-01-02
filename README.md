@@ -1,6 +1,6 @@
 # Simple Video Trimmer
 
-A very simple video trimming app.
+A very simple video trimming app. Watch this video about the details of this project and how to run it: https://youtu.be/MWe9BlMGTxE
 
 ## Tech Stack
 - React (frontend)
